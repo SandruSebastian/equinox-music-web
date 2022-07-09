@@ -590,4 +590,10 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
   }
+  .home-icon-group {
+    opacity: 0;
+  }
+  .home-image1 {
+    opacity: 0;
+  }
 }
