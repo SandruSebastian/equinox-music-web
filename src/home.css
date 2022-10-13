@@ -50,10 +50,12 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-halfunit);
   backdrop-filter: saturate(200%) blur(30px);
+  -webkit-backdrop-filter: saturate(200%) blur(30px);
   justify-content: space-between;
 
   box-shadow: 0 8px 26px -4px hsla(0,0%,8%,.15),0 8px 9px -5px hsla(0,0%,8%,.06)!important;
   backdrop-filter: saturate(200%) blur(30px);
+  -webkit-backdrop-filter: saturate(200%) blur(30px);
 }
 .header-container {
   color: var(--dl-color-whitez);
@@ -241,6 +243,7 @@
   border-radius: var(--dl-radius-radius-radius1);
   flex-direction: column;
   backdrop-filter: saturate(200%) blur(30px);
+  -webkit-backdrop-filter: saturate(200%) blur(30px);
   /*
   background-color: hsla(0,0%,100%,.8);
   */
@@ -544,6 +547,7 @@
     padding-right: 0px;
   }
   .home-image {
+    display: none;
   }
   .home-gallery {
     height: auto;
