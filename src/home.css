@@ -334,7 +334,7 @@
   align-items: flex-start;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/whatsapp%20image%202022-07-09%20at%202.47.31%20pm-1400w.jpeg");
+  background-image: url("public/playground_assets/WhatsApp Image 2022-10-10 at 7.04.28 PM.jpeg");
   background-position: center;
 }
 .home-container04:hover {
@@ -367,7 +367,7 @@
   align-items: flex-start;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/whatsapp%20image%202022-07-09%20at%202.47.04%20pm-1200h.jpeg");
+  background-image: url("public/playground_assets/WhatsApp Image 2022-10-06 at 9.55.15 AM.jpeg");
   background-position: center;
 }
 .home-container06:hover {
@@ -400,7 +400,7 @@
   align-items: flex-start;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/whatsapp%20image%202022-07-09%20at%203.57.37%20pm-1400w.jpeg");
+  background-image: url("public/playground_assets/WhatsApp Image 2022-10-06 at 11.34.41 PM.jpeg");
   background-position: center;
 }
 .home-container08:hover {
@@ -433,7 +433,7 @@
   align-items: flex-start;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/playground_assets/whatsapp%20image%202022-07-09%20at%202.49.36%20pm-1400w.jpeg");
+  background-image: url("public/playground_assets/WhatsApp Image 2022-10-05 at 2.28.45 PM.jpeg");
   background-position: center;
 }
 .home-container10:hover {
@@ -544,7 +544,6 @@
     padding-right: 0px;
   }
   .home-image {
-    display: none;
   }
   .home-gallery {
     height: auto;
